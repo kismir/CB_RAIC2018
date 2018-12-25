@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+''' Run LR and Runner.py simultaneously'''
+
 import subprocess
 import time
 
